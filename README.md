@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vuejs/vuejs.org/main/docs/.vuepress/public/images/logo.svg" alt="Vue.js Logo" width="150">
+  <img src="https://static.cdnlogo.com/logos/v/84/vue-js.svg" alt="Vue.js Logo" width="150">
 </p>
 
 <h1 align="center">🚀 Repaso Javascript Moderno para Vue ⚛️</h1>
