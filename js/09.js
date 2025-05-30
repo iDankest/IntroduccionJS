@@ -13,3 +13,4 @@ console.log(tecnologias2);
 const tecnologias3 = ["Vue", "JavaScript", "Node.js", true, 12, null, undefined, {nombre: "Juan", edad: 25}, [1,2,3,4,5]];
 console.log(tecnologias3);
 console.log(tecnologias3[8][2]);//Las arrays bidimensionales son aquellas que tienen arrays dentro de ellas
+    
