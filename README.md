@@ -1,14 +1,23 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vuejs/vuejs.org/main/docs/.vuepress/public/images/logo.svg" alt="Vue.js Logo" width="150">
+</p>
+
+<h1 align="center">🚀 Repaso Javascript Moderno para Vue ⚛️</h1>
+
+---
+
 ## Repaso de lo aprendido
-" Este es un repaso para perapara mi camino con Vue.js
-- Primero tendre un repaso de ES6+
+
+" Este es un repaso para preparar mi camino con Vue.js
+
+- Primero tendré un repaso de ES6+
 - JavaScript Moderno
-- Metodos de iteracion de arrays
-- Metodos de arrays
-- Codigo condicional
+- Métodos de iteración de arrays
+- Métodos de arrays
+- Código condicional
 - Funciones
 - Arrow functions
-- 
-  
+
 ### Métodos de Iteración de Arrays Comunes en JavaScript
 
 **`forEach()`:**
