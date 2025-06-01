@@ -17,6 +17,11 @@
 - Código condicional
 - Funciones
 - Arrow functions
+- Async/Await
+- Promesas
+- Fetch
+- JSON
+- ...
 
 ### Métodos de Iteración de Arrays Comunes en JavaScript
 
